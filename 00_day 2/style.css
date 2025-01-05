@@ -1,0 +1,28 @@
+p {
+    font-size: 16px;
+}
+.html{
+    color: #234DDE;
+}
+.css{
+    color: #E04B25;
+}
+.java{
+    color: #F4D100;
+}
+.Tailwind{
+    color: #45B2FB;
+}
+.React{
+    color: #01D9FF;
+}
+li{
+    font-size: 20px;
+    font-weight: 700;
+}
+#k{
+    color: #FF0000;
+}
+.faiyaz:hover{
+    color: #FF0000;
+}

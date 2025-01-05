@@ -1,0 +1,22 @@
+.border{
+    border: 50px solid black;
+    padding: 50px;
+    margin-right: 50%;
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: brown;
+   
+}
+.padding{
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: brown;
+}
+.css{
+    background-color: blue;
+}

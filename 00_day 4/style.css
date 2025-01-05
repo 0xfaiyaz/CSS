@@ -1,0 +1,17 @@
+ul{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: aqua;
+}
+
+.Ram{
+    color: red;
+    background-color: yellow;
+}
+li{
+    background-color: wheat !important;
+}
+li{
+    background-color: yellowgreen !important;
+}

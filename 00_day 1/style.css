@@ -1,0 +1,15 @@
+h1{
+    color: salmon;
+    font-size: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
